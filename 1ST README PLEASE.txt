@@ -1,0 +1,1 @@
+When Opening the webpage, Open 2010-11.html first as it's the first season.
